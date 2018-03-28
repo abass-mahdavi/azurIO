@@ -9,7 +9,7 @@ azurIO is a java application that allows its user to:
 * audit (1) a directory
 * compare (2) two different directories
 * archive (3) a source directory in a destination directory
-* time stamp (3) a directory
+* time stamp (4) a directory
 
 (1 , 2, 3, 4) more on those later
 
