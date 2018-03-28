@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="azurIO:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/azurIO_jar</output-path>
+    <root id="archive" name="azurIO.jar">
+      <element id="module-output" name="azurIO" />
+    </root>
+  </artifact>
+</component>
