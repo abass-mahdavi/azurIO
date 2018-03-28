@@ -4,12 +4,13 @@
 It requires Java Runtime Environment 1.8.0 or newer.
 
 ## What is “azurIO”
-azurIO is a java application that allows its user to:
-audit (*) a directory
-compare (*) two different directories
-archive (*) a source directory in a destination directory
-time stamp (*) a directory
-(*) more on these later
+### azurIO is a java application that allows its user to:
+* audit (1) a directory
+* compare (2) two different directories
+* archive (3) a source directory in a destination directory
+* time stamp (3) a directory
+
+(1 , 2, 3, 4) more on those later
 
 In addition, azurIO may be used to get (calculate) the hash checksum (SHA-1 or 256 or 512 or MD5) of a string or a regular existing file (that is not a directory)
 compare two different existing regular files, in or der to check if they are exact copies of not, regardless of the file name
